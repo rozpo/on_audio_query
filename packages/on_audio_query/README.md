@@ -1,3 +1,19 @@
+# on_audio_query
+
+Custom fork of [on_audio_query](https://github.com/LucJosin/on_audio_query) maintained for compatibility with latest Flutter releases only. Original repository was archived by the owner.
+
+## Installation
+
+Add custom fork as dependency in `pubspec.yaml` file.
+```yaml
+dependencies:
+  on_audio_query:
+    git:
+      url: https://github.com/rozpo/on_audio_query
+      path: packages/on_audio_query
+      ref: main
+```
+
 <div align=center>
 
 # on_audio_query
